@@ -1,0 +1,13 @@
+{
+  "creepy": {
+    "sounds": ["custom/creepy"]
+  },
+  "drum": {
+    "sounds": ["custom/drum"]
+  },
+  "terror": {
+    "sounds": ["custom/terror"]
+  }
+}
+
+
