@@ -1,8 +1,6 @@
 # Escape Your Fate
 A minigame created in minecraft with the use of mcfunction and not changing the actual minecraft code
 
-/hr
-
 # Story
 The story revoles around Four characters
 * Mario
@@ -38,8 +36,6 @@ becuase of that kevin took his own life now at the same highschool he seeks to g
 * Kevin = "He can't come to the swears and certain computer places"
 * Kevin = "He can't see you in the swears"
 
-/hr
-
 # HOW TO INSTALL
 * install the whole folders and run 1.21.8
 * Put the :resourcepack-things: and :conputer: in the resource pack folder
@@ -54,4 +50,3 @@ becuase of that kevin took his own life now at the same highschool he seeks to g
 
 # Future 
 * I will be adding My own horror resource pack but rn this is only a prototype so be consdiderate
-
