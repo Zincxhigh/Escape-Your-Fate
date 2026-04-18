@@ -37,10 +37,14 @@ becuase of that kevin took his own life now at the same highschool he seeks to g
 * Kevin = "He can't come to the swears and certain computer places"
 * Kevin = "He can't see you in the swears"
 
+#Commends
+* /reload to start/restart
+
 # HOW TO INSTALL
 * install the whole folders and run 1.21.8
 * Put the :resourcepack-things: and :conputer: in the resource pack folder
 * Put the world folder in the saves of 1.21.8
+* Then do /reload and everything will start
 
 # Recommended Mods
 * install Simple voice chat to make it more realistic
