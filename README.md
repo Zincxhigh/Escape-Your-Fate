@@ -1,3 +1,4 @@
+
 # Escape Your Fate
 A minigame created in minecraft with the use of mcfunction and not changing the actual minecraft code
 
@@ -58,4 +59,7 @@ Check out her work https://www.planetminecraft.com/member/rinfan
 <img width="1280" height="1024" alt="2026-04-18_18 38 20" src="https://github.com/user-attachments/assets/58228790-b1fc-417b-a2ea-799c106921bf" />
 <img width="1280" height="1024" alt="2026-04-18_18 38 00" src="https://github.com/user-attachments/assets/040bfe22-8e63-4976-9700-ac29ffcea642" />
 <img width="1280" height="1024" alt="2026-04-18_18 37 49" src="https://github.com/user-attachments/assets/203381ca-7c6a-46a2-afd9-e8ec742693cb" />
+
+<img width="1280" height="1024" alt="2026-04-14_18 36 23" src="https://github.com/user-attachments/assets/8a4db42a-3849-4253-b793-c66ab6b99a37" />
+<img width="1280" height="1024" alt="2026-04-18_18 37 43" src="https://github.com/user-attachments/assets/c10792ac-0756-4b59-8276-aaa171968d01" />
 
