@@ -18,26 +18,26 @@ becuase of that kevin took his own life now at the same highschool he seeks to g
 * As you go on you will find weird notes regarding the same school of a different story will see what
 * that could be☠️
 
-# Role :Players:👺
-## Ability 💪
+## Role :Players:👺
+### Ability 💪
 * Mario = "He can detect the monster if he is near"
 * Leon = "The only one capiable to even fight the monster but remmeber he can't kill him"
 * Zach = "Is the revier of the team and is the one responsiable to revie his teammate"
 * The trio = "Can go in to the swears and will not be seen"
-## Weakness 💀
+### Weakness 💀
 * The trio = "can't kill the monster"
 * The trio = "Can be seen through walls by the monster"
 
-# Role :Monster:🔪
-## Ability 💪
+## Role :Monster:🔪
+### Ability 💪
 * Kevin = "Has the ability to go invincible two times for 50 seconds be warry of your srroundings"
 * Kevin = "Has a sword if hit critical you will die"
 * Kevin = "Can see you through walls"
-## Weakness 💀
+### Weakness 💀
 * Kevin = "He can't come to the swears and certain computer places"
 * Kevin = "He can't see you in the swears"
 
-# Commends
+### Commends
 * /reload to start/restart
 
 # HOW TO INSTALL
