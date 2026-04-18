@@ -50,3 +50,6 @@ becuase of that kevin took his own life now at the same highschool he seeks to g
 
 # Future 
 * I will be adding My own horror resource pack but rn this is only a prototype so be consdiderate
+
+# Credits
+
