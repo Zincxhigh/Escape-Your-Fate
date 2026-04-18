@@ -52,4 +52,5 @@ becuase of that kevin took his own life now at the same highschool he seeks to g
 * I will be adding My own horror resource pack but rn this is only a prototype so be consdiderate
 
 # Credits
-
+RinFan for the map
+Check out her work https://www.planetminecraft.com/member/rinfan
