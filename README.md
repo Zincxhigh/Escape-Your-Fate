@@ -54,3 +54,8 @@ becuase of that kevin took his own life now at the same highschool he seeks to g
 # Credits
 RinFan for the map
 Check out her work https://www.planetminecraft.com/member/rinfan
+
+<img width="1280" height="1024" alt="2026-04-18_18 38 20" src="https://github.com/user-attachments/assets/58228790-b1fc-417b-a2ea-799c106921bf" />
+<img width="1280" height="1024" alt="2026-04-18_18 38 00" src="https://github.com/user-attachments/assets/040bfe22-8e63-4976-9700-ac29ffcea642" />
+<img width="1280" height="1024" alt="2026-04-18_18 37 49" src="https://github.com/user-attachments/assets/203381ca-7c6a-46a2-afd9-e8ec742693cb" />
+
