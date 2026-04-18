@@ -8,7 +8,7 @@ The story revoles around Four characters
 * Kevin
 * Leon
 * Zach
-* Kevin being the main villain as he was little he was getting builled by the other three
+* Kevin being the main villain as when they were little he would get builled by the other three
 becuase of that kevin took his own life now at the same highschool he seeks to gain his ravenge
 
 # Objectives
