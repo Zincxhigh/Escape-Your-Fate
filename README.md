@@ -37,7 +37,7 @@ becuase of that kevin took his own life now at the same highschool he seeks to g
 * Kevin = "He can't come to the swears and certain computer places"
 * Kevin = "He can't see you in the swears"
 
-#Commends
+# Commends
 * /reload to start/restart
 
 # HOW TO INSTALL
