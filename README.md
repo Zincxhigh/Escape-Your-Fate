@@ -58,7 +58,6 @@ becuase of that kevin took his own life now at the same highschool he seeks to g
 
 <img width="1280" height="1024" alt="2026-04-18_18 38 00" src="https://github.com/user-attachments/assets/040bfe22-8e63-4976-9700-ac29ffcea642" />
 
-<img width="1280" height="1024" alt="2026-04-18_18 37 43" src="https://github.com/user-attachments/assets/c10792ac-0756-4b59-8276-aaa171968d01" />
 
 # Credits
 RinFan for the map
